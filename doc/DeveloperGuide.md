@@ -92,6 +92,7 @@ Use case ends.
 Use case ends.
 
 **Extensions**
+
 2a. The list has no tags
 
 > Use case ends
