@@ -79,6 +79,7 @@ Use case ends.
 #### Use case: Rename tag
 
 **MSS**
+
 1. User requests to list tags
 2. AddressBook shows a list of used tags
 3. User selects a specific tag index on the list
