@@ -119,7 +119,7 @@ Use case ends.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
 5. Should be immediately easy to use even for those not well versed in computers.
-6. Should have a total file-size footprint of < 5m.
+6. Should have a total file-size footprint of < 5mb.
 
 ## Appendix D : Glossary
 
