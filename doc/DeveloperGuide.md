@@ -89,7 +89,7 @@ Use case ends.
 7. User enters new tag name
 8. AddressBook asks for confirmation
 9. User confirms
-10. Addressbook changes the tag
+10. Addressbook changes the tag <br>
 Use case ends.
 
 **Extensions**
